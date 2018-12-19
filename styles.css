@@ -1,0 +1,14 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: arial;
+    padding: 10px 25px;
+    text-align: center;
+  }
+  
+  ul li {
+    padding-bottom: 5px;
+    padding-left: 25px;
+    list-style-type: none;
+    text-align: center;
+  }
